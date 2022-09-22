@@ -3,7 +3,7 @@
 ## Objectives (for now)
 
 1. Decide on a Tech Stack (for now this project is front end exclusive)
---1. ✓ React with TypeScript is what the group has agreed on
+* ✓ React with TypeScript is what the group has agreed on
 2. Start using Figma to Plan the new Site
 --2. I don't want this entire semester to be us drawing a wireframe, so once we have one or 
 two pages (landing page and one sub page) I want to get us coding as soon as possible because
