@@ -8,7 +8,7 @@
 * I don't want this entire semester to be us drawing a wireframe, so once we have one or 
 two pages (landing page and one sub page) I want to get us coding as soon as possible because
 that's why we're all here.
-* link to our Figma is here: https://www.figma.com/team_invite/redeem/7QTOnuyyzsJQijOqYilRU2
+* link to our Figma is here: [ITO Web Redesign Figma](https://www.figma.com/team_invite/redeem/7QTOnuyyzsJQijOqYilRU2)
 3. Break up work into by people/groups
 * Web development is can be tricky to do collaboratively.
 That being said, I would ideally like everyone to have their own page/component to work on
